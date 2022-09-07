@@ -11,3 +11,5 @@ The movie "Titanic" is also one of my favorite movie, but before I became a data
 "What sort of people are most likely survive than others? Can we use machine learning to predict the survival rate and utilize it to other similar events?"
 
 In a word, the goal of this project is to build a machine learning model to predict who survived after the tragedy by using their personal data (ie name, age, gender, socio-economic class, etc).
+
+<img src="graphs/data distribution - all.jpg">
