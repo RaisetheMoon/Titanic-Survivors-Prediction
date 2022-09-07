@@ -27,7 +27,7 @@ The reasons I selected Random Forest for this project are:
 
 ## Exploratory Data Analysis
 <img src="graphs/data distribution - all.png">
-
+<img src="graphs/data distribution - all.png">
 
 
 ## Modeling
