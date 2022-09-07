@@ -26,7 +26,13 @@ The reasons I selected Random Forest for this project are:
 
 
 ## Exploratory Data Analysis
+
+### Data distribution
 <img src="graphs/data distribution-all.png">
+
+
+### Feature against survival rate
+<img src="graphs/feature against survival rate.png">
 
 
 ## Modeling
