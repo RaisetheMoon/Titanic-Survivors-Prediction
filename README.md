@@ -32,13 +32,29 @@ The reasons I selected Random Forest for this project are:
 
 
 ### Feature against survival rate
-<img src="graphs/feature against survival rate.png">
+<img src="graphs/features against survival rate.png">
 
 
 ## Modeling
 
 ### Confusion Matrix
+Confusion matrix can explain a binary classification problem. It gives us the overall accuracy of the model by calculating the fraction of the total samples that were correctly classified by the classifier.
 <img src="graphs/confusion matrix.png">
+
+- Accuracy: Overall, how often is the classifier correct?  
+(TP+TN)/total = (528+285)/891 = 0.91
+
+- Misclassification Rate: Overall, how often is it wrong? Equivalent to 1 minus Accuracy, also known as "Error Rate"  
+(FP+FN)/total = (21+57)/891 = 0.09
+
+- True Positive Rate: When it's actually yes, how often does it predict yes? Also known as "Sensitivity" or "Recall"  
+TP/actual yes = 100/105 = 0.95
+
+- False Positive Rate: When it's actually no, how often does it predict yes?  
+FP/actual no = 10/60 = 0.17
+
+- True Negative Rate: When it's actually no, how often does it predict no? Equivalent to 1 minus False Positive Rate, also known as "Specificity"  
+TN/actual no = 50/60 = 0.83
 
 
 ### Feature Importance
