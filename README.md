@@ -30,6 +30,13 @@ The reasons I selected Random Forest for this project are:
 
 <img src="graphs/confusion matrix.png">
 
+## Modeling
+Knowing feature importance can help us
+
+1. with **variable selection** - we can remove x variables that are not that significant which will shorten training time;
+2. get a better understanding of the **model’s logic** with which we can improve the model by focusing only on the important variables;
+3. sacrifice some accuracy for the sake of **interpretability** in some business cases
+
 <img src="graphs/feature importance.png">
 It seems that the top 5 most important features are:
 
