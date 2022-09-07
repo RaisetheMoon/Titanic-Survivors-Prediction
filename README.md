@@ -28,9 +28,15 @@ The reasons I selected Random Forest for this project are:
 ## Exploratory Data Analysis
 <img src="graphs/data distribution - all.jpg">
 
-<img src="graphs/confusion matrix.png">
+
 
 ## Modeling
+
+### Confusion Matrix
+<img src="graphs/confusion matrix.png">
+
+
+### Feature Importance
 Knowing feature importance can help us
 
 1. with **variable selection** - we can remove x variables that are not that significant which will shorten training time;
