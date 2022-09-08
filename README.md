@@ -36,7 +36,7 @@ The reasons I selected Random Forest for this project are:
 
 ### Correlation of raw data
 <img src="graphs/correlation of raw data.png" width="500">
-It's easy to tell that survival rate has a strong relationship with **Sex**, and weak relationship with **Pclass**, **Fare**, and **Cabin**, which three variables also strong relationship between each other.
+It's easy to tell that survival rate has a strong relationship with **Sex**, and weak relationship with **Pclass**, **Fare**, and **Cabin**, which three variables also have strong relationship with each other.
 
 
 ## Modeling
