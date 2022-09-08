@@ -1,5 +1,5 @@
 # Titanic-Survivors-Prediction
-I created this Python notebook to record my first complete machine learning project - Titanic, the classic competition topic on Kaggle. Even it is already well-known, the subject still interested me. So I dived into it, studied all the new terms, new functions and new approaches, and captured the explanations in this notebook.
+I created this [Python notebook](Titanic.ipynb) to record my first complete machine learning project - Titanic, the classic competition topic on Kaggle. Even it is already well-known, the subject still interested me. So I dived into it, studied all the new terms, new functions and new approaches, and captured the explanations in this notebook.
 
 ## Abstract
 <img src="https://static.timesofisrael.com/atlantajewishtimes/uploads/2022/03/DT6RD9.jpg" width="600">
