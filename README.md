@@ -34,6 +34,9 @@ The reasons I selected Random Forest for this project are:
 ### Feature against survival rate
 <img src="graphs/features against survival rate.png">
 
+### Correlation of raw data
+<img src="graphs/raw data correlation.png" width="500">
+
 
 ## Modeling
 
