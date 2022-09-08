@@ -82,10 +82,5 @@ This model leading to a 79% accuracy in the end
 
 #### Some key take away from my personal experiments and what-if analysis:
 
-- The engineering of the right features is absolutely key.
-  The goal there is to create the right categories between survived and not survived. They do not have to be the same size or equally distributed. What helped best is to group together passengers with the same survival rates.
-
-- I tried many, many different algorightms.
-Many overfit the training data (up to 90%) but do not generate more accurate predictions with the test data. What worked better is to use the cross-validation on selected algotirhms. It is OK to select algorithms with various results as there is strenght in diversity.
-
-- Lastly, the right ensembling was best achieved with a votingclassifier with soft voting parameter
+- The engineering of the right features is absolutely key;
+- Parameter tunning is also important.
